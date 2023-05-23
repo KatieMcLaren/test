@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>"Test Page"</title>
+    </head>
+    <body>
+        <h1>Testing Testing</h1>
+    </body>
+</html># Auto detect text files and perform LF normalization
 * text=auto
